@@ -1,0 +1,5 @@
+print("Введіть Число №1")
+a = float (input())
+print("Введіть Число №2")
+b = float(input())
+print("Сума цих чисел = ", a+b)
